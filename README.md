@@ -1,4 +1,4 @@
-# Installation Guide for Mosquitto, MySQL, and Apache2
+# Installation Guide for Mosquitto, MySQL, Apache2, FTP Server and XWindows
 
 This guide provides step-by-step instructions on how to install Mosquitto (MQTT broker), MySQL (database server), and Apache2 (web server) on a Linux-based system using the terminal.
 
